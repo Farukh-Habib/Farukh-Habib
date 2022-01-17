@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@farukh39565483" target="blank"><img src="https://img.shields.io/twitter/follow/@farukh39565483?logo=twitter&style=for-the-badge" alt="@farukh39565483" /></a> </p>
 
-- 🔭 I’m currently working on **Predicting Air quality**
+- 🔭 I’m currently working on **AI (projects-own-classifier)**
 
 - 🌱 I’m currently learning **Deep Learning With Tensorflow And Fundamentals of Mathmatics**
 
